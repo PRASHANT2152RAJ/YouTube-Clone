@@ -55,6 +55,7 @@ body{
 .logo{
     height: 85px;
     margin: 2px 30px 0;
+    cursor: pointer;
 }
 
 .search-box{
@@ -83,6 +84,7 @@ body{
     padding: 5px 0;
     margin-right: -10px;
     /* border-left: none; */
+    cursor: pointer;
 }
 
 .search-btn img{
@@ -176,8 +178,13 @@ body{
     padding: 0 2px;
     display: flex;
     align-items: center;
-    overflow-x: auto;   /* overflow-x auto means it gives a scroll bar in x direction */
+    overflow-x: auto;   /* overflow-x: auto means it gives a scroll bar in x direction */
     overflow-y: hidden;
+    /* text-decoration: none; */
+}
+.filter-options a { 
+    text-decoration: none;
+    color: #242424;
 }
 
 /* here it points the scroll bar of x direction */
@@ -197,7 +204,7 @@ body{
     color: #242424;
     font-size: 15px;
     cursor: pointer;
-    
+    /* overflow-x: auto; */
 }
 .filter-options:hover{
     background: rgba(0, 0, 0, 0.1);

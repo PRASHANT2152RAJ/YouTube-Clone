@@ -23,7 +23,7 @@ fetch (video_http + new URLSearchParams({
         getChannelIcon(item);
         
     })
-}).catch(err => console.log(err));   // use catch block to handle error alos
+}).catch(err => console.log(err));   // use catch block to handle error also
 
 const getChannelIcon = (video_data) => {         //create channelicon function to fetch channelicon seperately
     fetch(channel_http + new URLSearchParams({           //  use fetch function again
