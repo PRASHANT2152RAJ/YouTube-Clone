@@ -7,7 +7,7 @@ This was a small effort to create my first clone project
 ## Description
 
 This web app is a clone of the site YouTube and is made with Html,
-Css,Javascript. On Here, you can Sign in and sign out also you can search any videos, you can watch any videos, you can use home, explore ,shots, subscription and also check history. And definitely i will upgrade this project on upcoming days. The goal of this projectwas to clone Youtube as closely and as acurately as possible to showcase my ability.
+Css,Javascript. On Here, you can Sign in and sign out also you can search any videos, you can watch any videos, you can use home, explore ,shots, subscription and also check history. And definitely i will upgrade this project on upcoming days. The goal of this project was to clone Youtube as closely and as acurately as possible to showcase my ability.
 
 ## Built with
 
